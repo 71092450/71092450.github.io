@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(8, 42, 153);
+}
+
+h1{
+    margin: 10px;
+    color: white;
+    text-align: center;
+}
+
+
+ .imagen{
+
+ 
+     display: block;
+     width: 500px;
+     height: 500px;
+     object-fit: cover;
+
+     margin: 20px auto;
+     border-radius: 50%;
+     
+     
+ }
+
+ .card{
+    margin: 20px auto;/*auto: block, width*/
+    width: 600px;
+    height: auto;
+    border: 10px solid wheat; 
+    border-radius: 20px;
+    padding: 20px 0;
+}
