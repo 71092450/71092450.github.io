@@ -22,8 +22,8 @@ alert(nombre+apellido);
  document.write("</p>");
 */
 
-let nombre = "jhoy",apellido="sahuarico";
+/*let nombre = "jhoy",apellido="sahuarico";
 
 
 nombre = prompt("Ingrese tu nombre");
-apellido = prompt("Ingrese tu apellido")
+apellido = prompt("Ingrese tu apellido")*/
