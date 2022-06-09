@@ -27,3 +27,7 @@ alert(nombre+apellido);
 
 nombre = prompt("Ingrese tu nombre");
 apellido = prompt("Ingrese tu apellido")*/
+
+
+
+
